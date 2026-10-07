@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:  'Helvetica neue';
+  color: #fff;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+body{
+  justify-content: center;
+  align-items: center;
+  background-color: #111;
+}
+.hero {
+  margin-left: 50px;
+  padding: 25px;
+  height: 250px;
+  width: 250px;
+  background-color: aquamarine;
+  border: 2px solid black;
+  border-radius: 25px;
+}
