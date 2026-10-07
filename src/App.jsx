@@ -7,7 +7,7 @@ const App = () => {
     <h1 id='child1'>mammmaa</h1>
     <h1 id='child2'>MAmaaaaa</h1>
    </div>
-   <div id='chacha'> what!</div>
+   <div id='chacha'> what! </div>
    </>
   )
 }
