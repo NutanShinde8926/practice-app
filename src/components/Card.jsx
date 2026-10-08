@@ -1,6 +1,9 @@
-function Card () {
+function Card() {
 return (
-    <h1>hello there</h1>
+   <div className="card">
+    <h1> helllod</h1>
+    <p>hello there how qre you ok goof </p>
+   </div>
 )
 }
 export default Card
