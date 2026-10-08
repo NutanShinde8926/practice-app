@@ -2,22 +2,13 @@ import React from 'react'
 
 const App = () => {
   return (
-   <>
-   <div id='dad'>
-    <h1 id='child1'>mammmaa</h1>
-    <h1 id='child2'>MAmaaaaa</h1>
-   </div>
-   <div id='chacha'> what! </div>
-   </>
+    <>
+    <div className='card'>
+      <h1>hello</h1>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati, nihil!</p>
+    </div>
+    </>
   )
 }
 
 export default App
-
-
-//npm create vite
-// function App() {
-//   return <h1>hello nutan</h1>
-// }
-
-// export default App
