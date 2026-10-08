@@ -9,3 +9,10 @@
  margin: 20px;
  padding: 20px;
 }
+
+.nav{
+  background-color: rgb(205, 45, 205);
+  padding: 20px;
+  margin: 25px;
+  border-radius: 10px;
+}
